@@ -4,7 +4,7 @@ from tqdm import tqdm
 from joblib import delayed
 from joblib import Parallel
 
-from utils import get_data_fom_site
+from scrapper import get_data_fom_site
 
 N_PLACES = 20 * 1000
 
