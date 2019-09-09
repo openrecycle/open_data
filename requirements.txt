@@ -1,5 +1,6 @@
 pandas
 tqdm
 joblib
+lxml>=4.3.2
 beautifulsoup4>=4.5.3
 urllib3>=1.20
